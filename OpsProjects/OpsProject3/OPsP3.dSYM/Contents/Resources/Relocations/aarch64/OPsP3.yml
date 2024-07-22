@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/briannapatten/Spring2024_Classwork/OpsProjects/OpsProject3/OPsP3'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _producer, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x13C }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _buffer, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x6E, offset: 0x6E, size: 0x8, addend: 0x0, symName: _mutex, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0x95, offset: 0x95, size: 0x8, addend: 0x0, symName: _empty, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0xAA, offset: 0xAA, size: 0x8, addend: 0x0, symName: _full, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0xB4, offset: 0xB4, size: 0x8, addend: 0x0, symName: _producer, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x13C }
+  - { offsetInCU: 0xF8, offset: 0xF8, size: 0x8, addend: 0x0, symName: _consumer, symObjAddr: 0x13C, symBinAddr: 0x100003D50, symSize: 0xC8 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x204, symBinAddr: 0x100003E18, symSize: 0xD0 }
+...

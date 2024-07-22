@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/briannapatten/Spring2024_Classwork/OpsProjects/OpsProject2/OPsP2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _POP, symObjAddr: 0x0, symBinAddr: 0x1000037B4, symSize: 0x3C }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _P, symObjAddr: 0x530, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x94, offset: 0x94, size: 0x8, addend: 0x0, symName: _V, symObjAddr: 0x540, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0xB7, offset: 0xB7, size: 0x8, addend: 0x0, symName: _sem_id, symBinAddr: 0x100008020, symSize: 0x0 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: _total, symBinAddr: 0x100008028, symSize: 0x0 }
+  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: _OP, symObjAddr: 0x528, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x11E, offset: 0x11E, size: 0x8, addend: 0x0, symName: _OV, symObjAddr: 0x538, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0x142, offset: 0x142, size: 0x8, addend: 0x0, symName: _POP, symObjAddr: 0x0, symBinAddr: 0x1000037B4, symSize: 0x3C }
+  - { offsetInCU: 0x16A, offset: 0x16A, size: 0x8, addend: 0x0, symName: _VOP, symObjAddr: 0x3C, symBinAddr: 0x1000037F0, symSize: 0x3C }
+  - { offsetInCU: 0x192, offset: 0x192, size: 0x8, addend: 0x0, symName: _processInc, symObjAddr: 0x78, symBinAddr: 0x10000382C, symSize: 0xC0 }
+  - { offsetInCU: 0x1E0, offset: 0x1E0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x138, symBinAddr: 0x1000038EC, symSize: 0x3F0 }
+...

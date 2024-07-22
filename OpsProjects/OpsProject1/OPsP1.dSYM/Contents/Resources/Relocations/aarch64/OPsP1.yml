@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/briannapatten/Spring2024_Classwork/Ops2/OPsP1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _processInc, symObjAddr: 0x0, symBinAddr: 0x100003AD0, symSize: 0xA0 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _total, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x8E, offset: 0x8E, size: 0x8, addend: 0x0, symName: _processInc, symObjAddr: 0x0, symBinAddr: 0x100003AD0, symSize: 0xA0 }
+  - { offsetInCU: 0xDC, offset: 0xDC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xA0, symBinAddr: 0x100003B70, symSize: 0x290 }
+...
